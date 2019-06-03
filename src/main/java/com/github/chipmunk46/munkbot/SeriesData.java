@@ -71,7 +71,7 @@ public class SeriesData {
 				.setDescription(this.seriesDescrption)
 				.setAuthor(this.seriesAuthor)
 				.setColor(Color.ORANGE)
-				.setFooter("Link to series here!")
+				.setFooter("(Link to series here!)")
 				//.setImage(this.mapImage)
 				.setThumbnail("http://i.imgur.com/XEmaKVo.png");
 		if (this.seriesImage.startsWith("http")) {
